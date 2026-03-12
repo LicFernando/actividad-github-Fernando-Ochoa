@@ -1,0 +1,9 @@
+Nombre del alumno: Fernando Ochoa Rodriguez
+
+Fecha: 10 de marzo del 2026
+
+Objetivo de la actividad:
+Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+
+Qué es un Pull Request (definición breve): Un Pull Request (PR) es una propuesta para integrar (merge) cambios de una rama a otra (generalmente de una rama de características a la rama principal main). Permite revisar el código, discutir cambios y mantener la calidad antes de fusionar.
+
