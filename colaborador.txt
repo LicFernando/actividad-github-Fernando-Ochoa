@@ -1,0 +1,6 @@
+Nombre del colaborador
+Roberto Jesús Merida Cazares
+Fecha
+16/03/2026
+Práctica de aprobación de PR
+solicito añadir un archivo .txt llamado "colaborador.txt" para la practica
